@@ -1,0 +1,7 @@
+apiVersion: iter8.iter8.tools/v1alpha1
+kind: Experiment
+metadata:
+  name: experiment-sample
+spec:
+  # Add fields here
+  foo: bar

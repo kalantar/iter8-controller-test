@@ -1,0 +1,7 @@
+domain: iter8.tools
+repo: iter8.tools/iter8-controller
+resources:
+- group: iter8
+  kind: Experiment
+  version: v1alpha1
+version: "2"
